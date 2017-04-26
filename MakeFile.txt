@@ -1,5 +1,5 @@
 VERSION := 1.1.6
-NAME := flare
+NAME := Flare
 
 all: clean build install_mod
 
