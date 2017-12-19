@@ -3,6 +3,7 @@ data:extend(
   {
     type = "technology",
     name = "flare-capsule",
+	icon_size = 32,
     icon = "__Flare__/graphics/flare-capsule.png",
     effects =
     {
