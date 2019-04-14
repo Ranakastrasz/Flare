@@ -1,12 +1,12 @@
 
 {
   "name": "Flare",
-  "version": "16.1.0",
+  "version": "17.1.0",
   "title": "Flare",
   "author": "Ranakastrasz",
   "contact": "~",
   "homepage": "https://forums.factorio.com/viewtopic.php?f=93&t=26682",
   "description": "Adds a light generating capsule for nighttime use.",
   "dependencies": ["base"],
-  "factorio_version": "0.16"
+  "factorio_version": "0.17"
 }

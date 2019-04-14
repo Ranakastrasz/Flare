@@ -5,7 +5,6 @@ data:extend(
         name = "flare-capsule",
         icon = "__Flare__/graphics/flare-capsule.png",
 		icon_size = 32,
-        flags = {"goes-to-quickbar"},
         capsule_action =
         {
             type = "throw",
